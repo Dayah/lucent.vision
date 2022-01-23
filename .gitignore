@@ -6,11 +6,6 @@ Gemfile.lock
 package-lock.json
 node_modules/
 
-### macOS ###
-*.DS_Store
-.AppleDouble
-.LSOverride
-
 # Icon must end with two \r
 Icon
 
