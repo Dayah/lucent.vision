@@ -18,7 +18,7 @@ layout: main
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
         <h2>{{page.description}}</h2>
-        <div class="page-date"><span>{{page.date | date: '%b %d %Y'}}</span></div>
+        <div class="page-date"><span>{{page.date | date: '%B %-d %Y'}}</span></div>
       </header>
       {{content | markdownify}}
       <div class="page-footer">

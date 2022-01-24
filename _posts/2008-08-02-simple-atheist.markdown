@@ -1,0 +1,32 @@
+---
+layout: post
+title: The Simple Atheist
+date: 2008-08-02 00:00:00 +0000
+description: If atheists want to be the default, they’ll have to place themselves beneath believers rather than above them.
+img: monk-umbrella.jpg
+fig-caption: # Add figcaption (optional)
+tags: [Community Engagement]
+---
+Atheism is an absence of certain widely held unprovable beliefs. It is not constructed by subtracting religion from a religious worldview. It is what you get when you never consider religion at all. It’s quite perplexing that the term atheism even exists. After all, a-aetherism and a-geocentrism aren’t used to describe those who subscribe to modern physics. Yet a-aetherists are all around us. And so are atheists. Most rarely make noise because they’ve done some simple risk assessment and decided it’s not worth offending their grandmother or jeopardizing a promotion in order to publicize a null belief.
+
+The militant or New Atheists’ mission is to convince these quiet atheists that their assessment lacks the correct inputs. Religion is so damaging that they must take a stand against it. It is worth weirding out your sister-in-law to renounce such a dangerous evil. While this is likely true, atheism may be better served by the noisy atheists taking the unspoken advice of the quiet ones.
+
+Right now, there are two dominant types of noisemakers. The club atheist is the gentler of the two. You’ll find them at meet-ups, free thought clubs, and conferences — always diplomatic and ever ready to arrange interfaith discussions. They have the utmost respect for religious beliefs. Status in the club may even be tied to how much concession one can offer. Highest honors for acknowledging that without the philosophy of science, scientific realism is no truer an explanation for reality than god.
+
+Militant atheism seems like club atheism’s antithesis. Militants don’t just lack respect for religious beliefs; they are openly disrespectful. While this seems like a major difference, the effects of these opposing attitudes are quite similar. And it is their similarity which will keep atheism from reaching primetime.
+
+Both are equally likely to call believers small minded — in different ways. Militant atheists are quite enthusiastic about being insulting. Club types are more subtle about it, suggesting in a roundabout way that atheism may not be the best choice for “certain” people. Either way, believers are put down. The problem is that to put down others, atheists must elevate themselves. It requires more brilliance, more rigor. With atheism being a much more likely conversion target than source, this is a mistake easily made.
+
+Does atheism really require more intelligence? Take a moment to forget all the elaborate arguments used to poke holes in the worldviews of the various theists and deists. They are far too complex for the stupefying simplicity of the fact that there is no magical anything out there. Your certainty of this is akin to the certainty that fruit flies don’t magically appear out of old bananas. There are detailed arguments against spontaneous generation, but these are not the reason it is obviously false to you. The societal background noise from living in a modern scientific world is sufficient for this to be obvious even to a child.
+
+You’re no intellectual giant for realizing the obvious, nor do you deserve to co-opt words like Bright to describe yourself. The knowledge required to understand how existence reached this point may be highly elitist, but the break-even point occurred over a hundred years ago. It has been simpler and more reasonable to ignore this god nonsense than accept it since the nineteenth century.
+
+Religion isn’t your average nonsense, though. It’s a special kind of nonsense. It’s more like Time Cube than Mad Libs. To intelligently argue such an inconsistent system, an atheist’s opponent must be many times smarter than him. Atheists only have such an elaborate library of arguments and seem to fall short so frequently because they have no qualms with arguing on the terms and turf of their opponents. A religious person arguing on an atheist’s terms is inconceivable. We don’t even doubt our beliefs in the same way the religious do. Atheists can no more doubt there is no god than they could doubt David Blaine is just doing tricks.
+
+However, in atheism’s current elitist position, this is not something we can civilly confront others about or even respond to confrontation. If we are to turn more invisibles into noisemakers, we must make it socially acceptable to make noise. Right now, we are elitists looking down our noses at our lesser. As a result, noisemakers are going to either be those with limited social inhibition, limited social interaction, or those who travel exclusively among atheists. None of these is well-positioned to help us break through to the average person.
+
+To engage in confrontation and even a little ridicule, we must take the elitism out of atheism. The ability to cast shame on others’ beliefs in a socially acceptable manner comes not from being above them but being beneath them. Atheism must be seen as the acknowledgeable default for not just the average person, but more importantly, the least interested. Like the militants, we want it to be a dishonor, an embarrassment to admit to religious belief. The way to do this, however, is not to put down the religious but to elevate them above us.
+
+Atheists need to be able to seriously imply, “You really read all that stuff and reimagined the whole world in terms of it, even as every fact, every experiment ever done shows no evidence of it? What kind of convolutedly creative mind do you possess?” They must find the religious incredulous in the same way they would someone who’d read a book on plumbing and envisioned a world composed of microscopic water pipes. “You’re one of those plumbing nuts? I wouldn’t go spreading that around.”
+
+Nonbelievers must show embarrassment at how long it took them to reach the default position, not pride in their intellectual achievement. They must be astounded by the religious’ capacity for believing such carefully constructed nonsense. Not the New Atheist’s astonishment at how far beneath them the believer is and how worthy of contempt he is, but the astonishment a woodsman has for a big city architect who wants to build a ridiculous structure when a log cabin would house him just fine. We atheists are the simpletons, not them, and it’s time we acknowledged this.
