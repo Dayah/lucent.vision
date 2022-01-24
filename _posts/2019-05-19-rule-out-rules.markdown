@@ -3,11 +3,10 @@ layout: post
 title: Rule Out Rules
 date: 2019-05-19 00:00:00 +0000
 description: How doing away with rules can help your community thrive
-img: i-rest.jpg # Add image post (optional)
+img: no-shooting.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [Community Engagement]
 ---
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 I operate a real-time chat-centric community with about 500 concurrent online members, most of whom are teenagers. It has no rules. There’s no one you can even ask what the rules are. If you press the moderators, you’ll eventually get a circular answer. “If you’re thinking, ‘This will definitely get me banned’ you’ll probably be banned.” That’s as precise as it gets, and for good reason.
 
 Just about every community you visit, whether forum, chat, or social network, has a long list of mostly historical rules. Each time someone does something the owners find undesirable, a new entry is added. Soon, it turns into a pointless wall of text not unlike a EULA. The basis for this is no more than an aversion to appearing fascist. If you want to seem fair, you’d better write down the laws in advance. It’s pretty sensible for the governing of a country. Not as useful when the true list of what’s disallowed only really resides in the moderators’ heads, and rules are simply appended as new disruptive behaviors emerge.
