@@ -1,0 +1,14 @@
+<section class="comment-area">
+  <div class="comment-wrapper">
+    {% if site.discus-identifier %}
+    <script src="https://utteranc.es/client.js"
+        repo="{{ site.comments-reponame }}"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://github.com/Dayah/lucent.vision/issues">comments powered by GitHub issues.</a></noscript>
+    {% endif %}
+  </div>
+</section> <!-- End Comment Area -->
