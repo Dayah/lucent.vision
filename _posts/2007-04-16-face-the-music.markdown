@@ -3,7 +3,7 @@ layout: post
 title: Face the Music
 date: 2007-04-16 00:00:00 +0000
 description: An experiment on recognizing musical greatness says more about us as the musician than us as the audience.
-img: wine-glass.jpg
+img: subway-violin.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Community Engagement]
 ---

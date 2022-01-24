@@ -769,7 +769,7 @@ template {
 }
 
 html {
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 body {
@@ -1170,8 +1170,16 @@ footer .copyright {
   color: #263959;
 }
 
+.post .post-content .post-title a:hover {
+  text-decoration: revert;
+}
+
 .post .post-content p {
   margin-top: 0;
+}
+
+.wrap-content p {
+  font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 a.older-posts, a.newer-posts {
@@ -1199,7 +1207,8 @@ a.newer-posts:hover {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
-  padding: 20px;
+  padding: 2em 5%;
+  font-size: large;
 }
 
 .header-page {
