@@ -1,0 +1,36 @@
+---
+layout: post
+title: Persistence Over Intelligence
+date: 2011-11-01 00:00:00 +0000
+description: If your college physics class didn’t suck, the wrong people would pass.
+img: calculator-book.jpg
+fig-caption: # Add figcaption (optional)
+tags: [Community Engagement]
+---
+History is largely memorization. The curriculum is deliberately non-thematic. One can make endless arguments as to why history texts are spectacularly bland. The most obvious being political disagreement would demand the story of existence be sterilized of all meaning.
+
+Physics is different. There is no reason it can’t be tied together as neatly and spine-tinglingly as Daniel Quinn’s explanation of the Bible. However, if you’ve taken the physics major weed-out courses or physics for engineers or premeds, you probably remember something far more miserable than an enlightening view of the very few laws that govern every particle in the universe.
+
+In fact, I suspect I can recount your exact experience with the course. You were presented with a few basic equations, shown a few example problems, and then were expected to work seemingly slightly more complex problems, perhaps by drawing free body diagrams. A long-winded wall of text was provided that, despite sounding extensive, offered no real insight. You were made to feel that you had all the information you need to solve these problems but were unable to do so. You felt stupid.
+
+Eventually, someone in your study group determined there were a limited number of patterns for these problems. They were all worked in some form in the text or during the lecture. If you memorized these patterns and learned to substitute numbers, you passed. You Chinese roomed equations together from various pages, never really having a deep understanding of what you were doing.
+
+The difference being, with history, biology, or even chemistry, you can suspend disbelief. Unless you’re simultaneously reading Howard Zinn, you can accept that these are just names and dates to memorize. They don’t have any meaning. There’s no tie-in. With physics, from the very beginning, you know it all ties together. They rub it in. “Here you go, F = ma” that’s all you need to find how low a rope droops that’s strung between two walls with a 10 kg weight hung from it.” While technically true, it could also be argued that you should rederive summation if asked to add all integers from one thousand to one million. However, math classes never seem to make such unreasonable requests.
+
+This isn’t just an unreasonable request of a student; it is deliberately crafted to make you feel stupid — and for good reason.
+
+Imagine the opposite. What if the curriculum gave you the tools and information to really understand the subject to the point that solving problems was truly a side effect of that understanding? What would that change? Who would succeed; who would fail?
+
+A truly cumulative, tied-in physics lesson would help everyone — but not equally. People of normal intelligence would do slightly better in the class. They’d solve the problems but still be plagued by that constant sense that they need to “start over” and “go back to the beginning” whenever they get lost. The tie-in would intermittently break down for them. Physics is a complex subject.
+
+Very intelligent people, with IQs one to three standard deviations above normal, would be spectacularly assisted by such a lesson design. It would all come together for them. With a solidified conceptual framework for physics they could hold in their heads, they’d trounce their normally intelligent classmates at every turn with little effort. The better your mind is at assembling abstract concepts, the faster and better you will solve the problems. The intelligence of the smarter will be in competition with the perseverance of the average.
+
+Certainly one can be both hardworking and intelligent, but what happens in the above situation, where intelligence is actually allowed to mask or substitute for a lack of perseverance? It does something extremely dangerous for the college. It threatens to promote people who will eventually fail. Raw intelligence has an upper limit. Intelligence will allow you to coast through classes up to a point. Eventually, almost everyone will hit a wall and will have to buckle down and learn to study, memorize, and grind. The goal of college is to place this wall as sturdily, fairly, and early as possible.
+
+This is why college is specifically designed to thwart the intelligent. It is entirely crafted to keep those naturally intelligent from succeeding in proportion to their intelligence. Instead, the curriculum encourages those who persevere. Intelligent people love subjects that interest them. To circumvent this annoyance, college is deliberately, almost comically irrelevant. For people other than scientists and engineers, college seems almost designed to prevent students from acquiring any useful, world-applicable knowledge. Learn the language of a distant country. Memorize events which occurred on another continent long ago. Write about unrelatable books from centuries ago. Solve outlandishly abstract math problems.
+
+Naturally intelligent people are quite worthless if they’re undisciplined. Society has progressed to the point that the comparatively generalized interests of an intelligent person, no matter how intelligent he is, will never produce anything new. It is only those who persevere on the frustratingly specific (and therefore uninteresting) edges of knowledge who will contribute to society’s understanding. College finds these people by presenting thousands with deliberately uninteresting, frustrating coursework and seeing who remains after many years. The prestige of your degree is not determined by your accomplishment or intelligence but by how many years of adversity you could suffer without forfeit.
+
+Part of us always knew this. Remember when we first learned prestigious universities would release their entire curriculum for free online? Were students going to form co-ops and work through the material on their own, watching the video lectures together and mastering the coursework while saving themselves from decades of debt? Surely a revolution was coming. Except nothing changed. We knew all along that it wasn’t about the knowledge contained in the courses, but the torturous, half-decade grind.
+
+This is because for most, college is not a place to acquire useful knowledge and skill; it is a test of your ability to suffer. Can you sit through class after class of irrelevant facts that are designed to make you feel stupid and still persevere? If you can do so for four years, you’re going to be superb at suffering for the next forty-five years, churning through problems one day at a time. This is why a college diploma is so valuable to employers, despite virtually none of the knowledge acquired in college being relevant for any job. What society values is people who can push on for years despite depressive adversity, not people who are slightly more clever at solving problems that interest them. It would be nice to have both, but if you have to pick one, go for the former.
