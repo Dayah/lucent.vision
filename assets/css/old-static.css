@@ -288,9 +288,6 @@ footer .copyright {
   width: 100%;
   max-width: 100%;
   margin-bottom: 1.5rem;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
           flex-direction: row;
           align-items: stretch;
@@ -419,9 +416,6 @@ a.newer-posts:hover {
 }
 
 .page-footer {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
