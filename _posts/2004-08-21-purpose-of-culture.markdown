@@ -1,0 +1,28 @@
+---
+layout: post
+title: The Only Purpose of Culture
+date: 2004-08-21 00:00:00 +0000
+description: Just as history is written by the victors, so is your own identity.
+#img: operating-room.jpg
+fig-caption: # Add figcaption (optional)
+#tags: [Community Engagement]
+---
+An unspoken contempt of culture in general has grown throughout white America. All these silly rituals and specific foods and colorful garments and jewelry and ceremonies. Even most of the relativists have forgotten the purpose of culture and blindly dispense hollow respect for it. Sociology and anthropology texts imply it’s just arbitrary stuff people come up with for the hell of it when they live near one another. With such an implication, it certainly seems a little silly in today’s world.
+
+Culture emerges in only one circumstance and serves only one purpose. When a group of people face the same adversity at the same time, they do better if they deal with it together. A people’s collective solutions to adversity is their culture. If there’s a limited supply of food, we’ll get used to the same fruits and meats and use the same cooking techniques. If we live in the same climate and around the same building materials, we’ll learn to build dwellings together. If we experience the same weather and live near cotton plants, we’ll weave similar clothing. If we’re confused by the same astronomical phenomenon or killed by the same unknown disease, we’ll come up with myths together.
+
+Without unified adversity, problems are fleeting. If I face hunger one month, infant mortality the next, and predators the third, and you face these things in the opposite order, we build no culture together. We’re not going to hunt together or create a common death ritual or learn to build secure dwellings together. This is the only reason culture is geographically localized.
+
+Now, many classes of people do not face any perceptible adversity that unification is a weapon against. A non-trivial percentage of the world who are of certain races, live in certain countries, and are born to affluent families no longer see problems in their lives that could be overcome if they just had the help of their fellow man. There is no hunger for them, no discrimination, no infant mortality, no predators, no droughts. As far as they know, their only enemy are the people around them competing for the same jobs, resources, and mates.
+
+Genuine culture cannot emerge in these situations. Instead, we end up with something that looks a lot like culture — a common language, beliefs, some customs, ways of greeting and acceptable conversation. However, for these people, this commonality does not serve the purpose of culture. Instead, it’s used only to smoothly interact with those in proximity. This phony “culture” leaves us feeling isolated and without purpose, something humanity has never really encountered on such a large scale until recently. Consequently, this “culture” does not offer any of the benefits of its real counterpart. It does not fulfill our innate desire to survive against the odds with the help of our tribe. Rather it leaves us feeling isolated and without purpose, something humanity has never really encountered on such a large scale until recently.
+
+One way of dealing with this emptiness is through subculture. Subcultures create or aggrandize an adversity so that a small group may together rally against it. Of course, it’s not often obvious that this is what subcultures do, just as it’s not obvious that wearing similar clothing is a way of dealing with shared adversity. Some choose obscure types of music and imagine they are resisting popular music as if it were threatening their very identity. Coworkers at a fast food restaurant may form a bond based on shared hate of a boss. Hackers work together to defeat a system that denies them free exploration. Even people who support unpopular computer hardware and software form bonds as if Microsoft and Intel were threatening their personal survival.
+
+Subcultures are generally harmless. They satisfy the human appetite for what is past without endangering the common good. Ideally, when the adversity is over, which it now is for several classes of people, culture is abandoned. It should be; it’s a veritable weapon against adversity, and if that adversity is competition with others, a weapon against those people.
+
+This may partially explain why Zionists are hated by some. They used culture to overcome adversity, achieved equality, and are still using it to lobby and keep other cultures out of their country. When culture is used by a people who’ve achieved and surpassed equality, their actions are better described with words like ethnocentrism and racism. One could accuse racist whites and Zionists of cheating the purpose of culture, using it beyond its design intent.
+
+That’s also why the powerful want America to be a melting pot. Melt away the minorities’ culture, and along with it, their ability to coalesce and overcome oppression. Most of us take for granted that there’s nothing wrong with an NAACP meeting but a KKK meeting is spooky. We already have an understanding of when it’s appropriate to use culture. Blacks are a minority who do not yet enjoy equality. If they’re congregating, it’s to achieve this goal. Whites currently enjoy more than equality. Why are they congregating?
+
+That true culture can only exist in negative circumstances is a damning proposition if true. Luckily for the middle and upper class, they still do have an enemy to unite against, even if that enemy is largely invisible to them: corporate greed. But that issue is better explained by essayists like Noam Chomsky.

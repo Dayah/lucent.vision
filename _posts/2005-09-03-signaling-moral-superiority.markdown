@@ -5,7 +5,7 @@ date: 2006-08-08 00:00:00 +0000
 description: The more a false story reveals of your own values, the greater your propensity to share it.
 img: yell-microphone.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 Memetics studies how and why ideas travel among people from an evolutionary perspective. Christianity, for example, is a hearty meme partially because it contains a reward for those who spread it. It’s safe to assume that if a fallacious story is propagating rapidly and its correction is not, the falsehood is offering its propagators some reward.
 

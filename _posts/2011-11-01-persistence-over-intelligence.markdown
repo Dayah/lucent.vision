@@ -5,7 +5,7 @@ date: 2011-11-01 00:00:00 +0000
 description: If your college physics class didn’t suck, the wrong people would pass.
 img: calculator-book.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 History is largely memorization. The curriculum is deliberately non-thematic. One can make endless arguments as to why history texts are spectacularly bland. The most obvious being political disagreement would demand the story of existence be sterilized of all meaning.
 

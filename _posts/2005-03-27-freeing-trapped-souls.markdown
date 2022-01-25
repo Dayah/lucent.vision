@@ -5,7 +5,7 @@ date: 2005-03-27 00:00:00 +0000
 description: Just as stem cell research mocks ensoulment, the vegetative state mocks the soul’s departure.
 img: operating-room.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 The woman is a vegetable. The husband gets to decide whether to pull the plug. The religious right has seized this issue to appeal to its base. Only one interesting question remains worth inquiry. Why does this issue appeal to the conservative base? Why does it inspire them?
 

@@ -5,7 +5,7 @@ date: 2016-11-16 00:00:00 +0000
 description: The S you drew on your notebooks in school may one day save you on a deserted island.
 img: stussy-s.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 Many people, particularly those which may be in a dangerous situation, are familiar with the Morse code for SOS. I’m not, but it’d probably be on my reading list before taking a three-hour tour. And it’s not even that useful for signaling distress, requiring a functioning emitter and a nearby eavesdropping receiver.
 

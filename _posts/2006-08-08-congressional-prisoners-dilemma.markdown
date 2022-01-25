@@ -5,7 +5,7 @@ date: 2006-08-08 00:00:00 +0000
 description: A classic experiment measuring obedience to authority may have little to do with either.
 img: danger-pole.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 In 1961, Stanley Milgram conducted the first of a series of very famous psychological experiments to gauge people’s level of obedience to authority. What happens when you pit someone’s conscience against the orders of an authority figure? In his own words, “Could it be that Eichmann and his million accomplices in the Holocaust were just following orders?”
 

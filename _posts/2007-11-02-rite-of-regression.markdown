@@ -5,7 +5,7 @@ date: 2008-08-02 00:00:00 +0000
 description: Wine snobs’ new style of rationalizations may reveal a childishness normally silenced by a coming of age rite.
 img: wine-glass.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 When it comes to wine, there are two camps in the battle of one-upmanship. Either it’s all the same, or the more expensive product really does taste that different. Depending on how you frame your identity, and perhaps more on how much money you make, you select one and claim it’s the optimal viewpoint.
 

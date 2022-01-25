@@ -5,7 +5,7 @@ date: 2019-05-19 00:00:00 +0000
 description: How doing away with rules can help your community thrive
 img: no-shooting.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 I operate a real-time chat-centric community with about 500 concurrent online members, most of whom are teenagers. It has no rules. There’s no one you can even ask what the rules are. If you press the moderators, you’ll eventually get a circular answer. “If you’re thinking, ‘This will definitely get me banned’ you’ll probably be banned.” That’s as precise as it gets, and for good reason.
 

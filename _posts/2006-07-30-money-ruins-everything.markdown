@@ -5,7 +5,7 @@ date: 2006-08-08 00:00:00 +0000
 description: Your motivation to exercise evaporates for the same reason many believe morality has a religious basis.
 img: game-board.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 Motivation can be a quirky thing. It often comes out of nowhere and, much to our disappointment, evaporates just as capriciously.
 

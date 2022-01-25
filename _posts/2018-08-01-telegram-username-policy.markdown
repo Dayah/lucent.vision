@@ -5,7 +5,7 @@ date: 2018-08-01 00:00:00 +0000
 description: Why securing a user’s consistent identity helps your company
 img: social-networks.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 I'm from an earlier era of the internet. In the 2000s, if your desired username was anything other than one of the top few thousand dictionary words, you could acquire it on every service, every time. We got used to this, to the point that it became, at least for me, viscerally unpleasant to be denied your desired username.
 

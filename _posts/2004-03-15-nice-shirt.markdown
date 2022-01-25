@@ -1,0 +1,26 @@
+---
+layout: post
+title: Nice shirt, I have one just like it
+date: 2004-03-15 00:00:00 +0000
+description: We’re compatible with more people than we’d like to think, but it's better we not realize it.
+#img: operating-room.jpg
+fig-caption: # Add figcaption (optional)
+#tags: [Community Engagement]
+---
+Whenever I see an attractive girl, I immediately start searching for an “in.” I need a reason to talk to her. Is she talking to someone I know? Did she miss the same class and we both need to make something up? Did we meet at some random place far outside of campus? Same brand backpack? I’ll take anything. Why go through this charade?
+
+Behind the “in” lies a frightening truth. It’s the same truth that makes arranged marriage seem so alien and loveless to Westerners. Love is supposed to be this mystical force that draws random people together. Surely you can’t just select two people, encourage them to marry, and they end up loving each other as much the self-determined couple. The very thought is sickening because so much emphasis is placed on the meeting. The mythology of the self-determined marriage is that two people who were always meant to be married finally met thanks to a chance encounter.
+
+Just as self-determined marriages hide how many people are potential mates, the “in” hides how many are potential friends. We could probably become great friends with half the people we meet in our school classes or even on the subway. Yet we don’t talk to them without some catalyzing commonality. The excuse to chat won’t be profound. It won’t reflect some deep similarity. It won’t be a good starting point in a relationship. It’s merely an excuse. It allows us to think of love and friendship as connecting forces that flow through the universe, inviting already-compatible people to make acquaintance. Consider how you met your friends. You probably remember most meetings as lucky encounters in which you were statistically quite fortunate to meet someone so similar. If we all feel this way about our friends, perhaps it is the norm rather than providence.
+
+If we really could get along with such a large percentage of people, why the games and excuses? Consider you wish to purchase an expensive item that you believe to be very rare. You come across it at a garage sale you just happened to stop by. Without question, you’ll buy it and take good care of it. However, if you learned it was mass produced and available anywhere, not only would you be less likely to purchase it, when you did, you’d probably be more careless with it.
+
+This is the dilemma of human relationships. If we believe love and friendship are plentiful and easy to come by, we will not sufficiently value and invest in the relationships. If after every argument with a current friend I thought about the hundreds of other potential friends I walked by every day, I’d very likely not expend the effort to work through it. Why not just try out a new one?
+
+We evolved in circumstances where such freedom of choice was impossible. Unlike agrarian societies, which are a very recent development, nomadic tribes must distance themselves from other tribes to survive. This meant that we were only in contact with a few dozen others at most throughout our sociobiological development. In this setting, burning bridges with others or even allowing your own bridges to be burned would be very dangerous to your survival. We’ve only had rich, dense interaction with others for a few thousand years — not nearly enough time for our friending algorithm to recalibrate.
+
+Would a recalibration to select and discard friends rapidly be a good adaptation for us today? Perhaps not. The survival value of friends may lie more in their persistence and less in the specific people selected for the role. Certainly it’s nice to have friends who like the same music and movies and talk about the same things, but their loyalty and your shared history is what gives them their survival value.
+
+Luckily, our culture has introduced an artificial boundary which ingeniously limits our exposure to potential friends. The perceived randomness catalyzing relationships makes both parties feel the connection is more special and unique than it actually is, and this vague belief feeds the relationship, encouraging both to expend more resources to strengthen it.
+
+Since we only really have room for a limited number of friends, there’s no real danger in believing we’re only compatible with a small percentage of people so long as we have enough “chance encounters” to fill these roles. It does present other problems, however, especially in places with high population density. These situations are so random and diverse that they’re nearly impenetrable to ins. It would probably be very beneficial to randomly talk to people we sat next to on the subway. We could learn about each other and make valuable business or personal contacts with little danger. Regardless, would we even consider doing such a thing? Even if we did, neither the initiator nor receiver of the interaction would feel special or consider it could become a real friendship. I could’ve selected anyone to chat with and you could’ve been selected by anyone. Interacting with others without an in may only be a faux pas because if it works too often, our dream of a friend-aligning force would be dashed.

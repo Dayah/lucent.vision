@@ -5,7 +5,7 @@ date: 2013-12-22 00:00:00 +0000
 description: We weave a confusing yarn when we associate the personality traits of a human with a corporation.
 img: nike-shoes.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 A spokesman doesn’t do what you think they do. Their real purpose is kept a secret, because if you knew it, their services wouldn’t be worth millions of dollars. They’d be nearly worthless. You’re even encouraged to indulge your cynicism, to peel back that first layer and congratulate yourself on spotting a vacuous celebrity collecting piles of cash to sell you a product they may not even like.
 

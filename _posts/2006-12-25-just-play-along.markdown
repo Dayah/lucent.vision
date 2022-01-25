@@ -5,7 +5,7 @@ date: 2006-12-25 00:00:00 +0000
 description: Movies used to drop us right into their escapist reality. Why do they now include that transition in the movie itself?
 img: popcorn-box.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 A recent movie depicts a protagonist who finds his life the subject of a book. As the author writes, so he experiences. When this comes to light, the solution is not for the book to be scrapped so that he may live his life, which is finally becoming meaningful, but for the book to have a good ending, even if it’s at his expense.
 

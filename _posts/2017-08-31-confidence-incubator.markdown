@@ -5,7 +5,7 @@ date: 2017-08-31 00:00:00 +0000
 description: How would you design an incubator to find the best con artists?
 img: sawyer-smirk.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 Whether for chickens or startups, all incubators do the same thing. They provide ideal conditions to maximize the growth of whatever is desired. How would one design an incubator specifically for con artists? What would bring forth the most devious, ruthless, manipulative hucksters with the greatest skill at taking the most wealth from the greatest number of people? How would you motivate them to maximize their brutality and ferocity and minimize their mercy? What limitless source of fuel would you offer them to ensure their savagery could scale up indefinitely, unencumbered by an environment exhaustible for malevolence?
 

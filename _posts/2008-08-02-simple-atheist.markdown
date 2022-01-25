@@ -5,7 +5,7 @@ date: 2008-08-02 00:00:00 +0000
 description: If atheists want to be the default, they’ll have to place themselves beneath believers rather than above them.
 img: monk-umbrella.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 Atheism is an absence of certain widely held unprovable beliefs. It is not constructed by subtracting religion from a religious worldview. It is what you get when you never consider religion at all. It’s quite perplexing that the term atheism even exists. After all, a-aetherism and a-geocentrism aren’t used to describe those who subscribe to modern physics. Yet a-aetherists are all around us. And so are atheists. Most rarely make noise because they’ve done some simple risk assessment and decided it’s not worth offending their grandmother or jeopardizing a promotion in order to publicize a null belief.
 

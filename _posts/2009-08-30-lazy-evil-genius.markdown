@@ -5,7 +5,7 @@ date: 2011-11-01 00:00:00 +0000
 description: Why are soccer moms better at coming up with terrorists plots to worry about than terrorists are at implementing them?
 img: gas-mask.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 Before the professor arrived, a Bruce Vilanch-looking classmate claimed to have devised a scheme to dismantle the credit card system without employing extraordinary *Fight Club*-esque means. He would not reveal it, but it wouldn’t surprise me if the idea really was feasible. Just as it wouldn’t surprise me if one could hack into a pacemaker to kill someone, or set up a black market organ network, or copy keys using photos and break into homes, or poison large amounts of drinking water, or write a virus that wiped out a percentage of the world’s hard drives. What is so fascinating, so perplexing, is that these things are simply not happening.
 

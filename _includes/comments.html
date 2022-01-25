@@ -1,6 +1,5 @@
 <section class="comment-area">
-  <div class="comment-wrapper">
-    {% if site.comments-reponame %}
+   {% if site.comments-reponame %}
     <script src="https://utteranc.es/client.js"
         repo="{{ site.comments-reponame }}"
         issue-term="pathname"
@@ -8,7 +7,6 @@
         crossorigin="anonymous"
         async>
     </script>
-    <noscript>Please enable JavaScript or <a href="https://github.com/Dayah/lucent.vision/issues">view the comments at GitHub issues</a>.</noscript>
+    <noscript>Please enable JavaScript or <a href="https://github.com/{{ site.comments-reponame }}/issues">view the comments at GitHub issues</a>.</noscript>
     {% endif %}
-  </div>
 </section> <!-- End Comment Area -->

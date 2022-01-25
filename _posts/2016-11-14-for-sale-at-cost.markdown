@@ -5,7 +5,7 @@ date: 2016-11-14 00:00:00 +0000
 description: If an at-cost market suddenly has to label its prices, the biggest change won’t be on the consumer side.
 img: measure-sandwich.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Community Engagement]
+#tags: [Community Engagement]
 ---
 Imagine a slightly different world with a different economic system. In this world, no shops you browse advertise their prices. You simply buy things and they deduct the item’s cost from your bank account. They charged you the actual production cost of the item, so no one was particularly appalled. You always got value equivalent to what you paid. It worked fine for a while, but then a lot of people started having serious money problems. They were consistently buying extremely expensive things without realizing it, and it wasn’t entirely their fault. You may buy a simple clock and later learn some internals were made of gold. But by then, it was too late.
 
