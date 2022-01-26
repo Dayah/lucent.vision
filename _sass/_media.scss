@@ -16,6 +16,9 @@
         margin: 0 0 5px;
         a {
           font-size: 21px;
+          &:hover {
+            text-decoration: revert;
+          }
         }
       }
     }
